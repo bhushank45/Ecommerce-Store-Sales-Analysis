@@ -17,7 +17,7 @@ The project analyzes E-commerce sales data and shows insights using dashboard.
 - KPI Cards
 
 ## 📷 Dashboard Preview
-[![Dashboard](Dashboard_Screenshot.png)]
+![Dashboard](Dashboard_Screenshot.png)
 
 ## 👨‍💻 Author
 Bhushan Khade
